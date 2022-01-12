@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Sivan 👋
 
-<!--
-**sivansundar/sivansundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught Android developer. Always up for developing products that can add value to a user’s experience on a day to day basis. Kotlin enthusiast.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Sbaceman](https://google.com) - an app that lets you search for live and scheduled Twitter Spaces.
+- 🌱 Learning a lot of Compose 🤯
+- 👯 Want to collab on open source projects? Hit me up.
+- 💬 Down to chat about litreally anything under the sun.
+- 📫 How to reach me?  
+  * Drop an email to [hello@sivansundar.com](mailto:hello@sivansundar.com)
+  * Shoot me a DM on twitter at [@sivansundar](https://www.twitter.com/sivansundar)
+  * LinkedIn : [Sivan Chakravarthy](https://www.linkedin.com/in/sivan-chakravarthy-s/) 
+- ⚡ Apart from building apps and being invested in tech, I also make music with [Rofo](https://www.bio.link/therofoband) where I take care of the vocal duties coupled with being their frontman.
