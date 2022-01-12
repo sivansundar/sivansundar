@@ -4,7 +4,7 @@ Self-taught Android developer. Always up for developing products that can add va
 
 - 🔭 I’m currently working on [S:b:aceman](https://www.github.com/sivansundar/sbaceman) - an app that lets you search for live and scheduled Twitter Spaces.
 - 🌱 Learning a lot of Compose 🤯
-- 👯 Want to collab on open source projects? Hit me up.
+- 👯 Want to collaborate on an open source project? Hit me up.
 - 💬 Down to chat about litreally anything under the sun.
 - 📫 How to reach me?  
   * Drop an email to [hello@sivansundar.com](mailto:hello@sivansundar.com)
