@@ -2,7 +2,7 @@
 
 Self-taught Android developer. Always up for developing products that can add value to a user’s experience on a day to day basis. Kotlin enthusiast.
 
-- 🔭 I’m currently working on [Sbaceman](https://google.com) - an app that lets you search for live and scheduled Twitter Spaces.
+- 🔭 I’m currently working on [S:b:aceman](https://www.github.com/sivansundar/sbaceman) - an app that lets you search for live and scheduled Twitter Spaces.
 - 🌱 Learning a lot of Compose 🤯
 - 👯 Want to collab on open source projects? Hit me up.
 - 💬 Down to chat about litreally anything under the sun.
