@@ -1,8 +1,8 @@
 ### Hi there, I'm Sivan 👋
 
-Self-taught Android developer. Always up for developing products that can add value to a user’s experience on a day to day basis. Kotlin enthusiast.
+Droid at [Jiva](https://www.github.com/sivansundar/sbaceman). Self-taught Android developer. Always up for developing products that can add value to a user’s experience on a day to day basis. Kotlin enthusiast.
 
-- 🔭 I’m currently working on [S:b:aceman](https://www.github.com/sivansundar/sbaceman) - an app that lets you search for live and scheduled Twitter Spaces.
+- 🔭 Currently, I help farmers and stakeholders in the Indonesian agriculture scene to have a better tech experience and in turn improve their livelyhood.
 - 🌱 Learning a lot of Compose 🤯
 - 👯 Want to collaborate on an open source project? Hit me up.
 - 💬 Down to chat about litreally anything under the sun.
